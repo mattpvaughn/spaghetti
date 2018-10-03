@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="define_int_appcompat">2018;AOSP</string>
+    <!-- Author section -->
+    <string name="library_appcompat_author">AOSP</string>
+    <string name="library_appcompat_authorWebsite">https://source.android.com/</string>
+    <!-- Library section -->
+    <string name="library_appcompat_libraryName">Android Support Library - AppCompat</string>
+    <string name="library_appcompat_libraryDescription">Library Project including compatibility ActionBar.</string>
+    <string name="library_appcompat_libraryWebsite">https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat</string>
+    <string name="library_appcompat_libraryVersion">@string/ext_support_lib_version</string>
+    <!-- OpenSource section -->
+    <string name="library_appcompat_isOpenSource">true</string>
+    <string name="library_appcompat_repositoryLink">https://android.googlesource.com/platform/frameworks/support/+/bd4cbab/v7/appcompat/</string>
+    <!-- ClassPath for autoDetect section -->
+    <string name="library_appcompat_classPath">androidx.appcompat.app.ActionBar</string>
+    <!-- License section -->
+    <string name="library_appcompat_licenseId">apache_2_0</string>
+    <!-- Custom variables section -->
+    <string name="library_appcompat_owner">AOSP</string>
+    <string name="library_appcompat_year">2018</string>
+</resources>

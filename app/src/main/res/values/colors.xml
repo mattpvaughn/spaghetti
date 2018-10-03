@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea5a7d</color>
+    <color name="colorPrimaryDark">#cf4d6c</color>
+    <color name="colorAccent">#ea5a7d</color>
+
+    <color name="appBackground">#1A2E33</color>
+    <color name="body_text_inverse">#AEFFFFFF</color>
+    <color name="title_text_inverse">#D9FFFFFF</color>
+
+    <color name="navigation_icon_normal">#AEFFFFFF</color>
+    <color name="navigation_icon_checked">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,1 @@
+# Spagetti Copypastas and Emojipastas

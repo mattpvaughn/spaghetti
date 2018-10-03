@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="emoji_size">36dp</dimen>
+    <dimen name="emoji_char_size">24dp</dimen>
+    <dimen name="row_icon_margin">8dp</dimen>
+    <dimen name="vertical_text_spacing">12dp</dimen>
+    <dimen name="icon_row_vertical_padding">24dp</dimen>
+    <dimen name="focused_copypasta_bottom_padding">72dp</dimen>
+</resources>

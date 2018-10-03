@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".HomeActivity">
+
+    <item android:id="@+id/action_edit_copypasta"
+        android:icon="@drawable/ic_edit_white_24dp"
+        android:title="Edit copypasta"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_copypasta_form"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:title="@string/toolbar_submit_copypasta"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/toolbar_settings"
+        app:showAsAction="never"/>
+</menu>

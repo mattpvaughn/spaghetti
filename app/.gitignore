@@ -1,0 +1,7 @@
+build/
+release/
+.gradles/
+bin/
+gen/
+out/
+libs/

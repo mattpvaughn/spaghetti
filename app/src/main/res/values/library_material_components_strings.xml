@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="define_int_material_components">2018;Google Inc.</string>
+    <!-- Author section -->
+    <string name="library_material_components_author">Google Inc.</string>
+    <string name="library_material_components_authorWebsite">https://source.android.com/</string>
+    <!-- Library section -->
+    <string name="library_material_components_libraryName">Material Components</string>
+    <string name="library_material_components_libraryDescription">Material Components for Android, iOS, web and Flutter help developers execute Material Design with modular and customizable UI components.</string>
+    <string name="library_material_components_libraryWebsite">https://github.com/material-components/material-components</string>
+    <string name="library_material_components_libraryVersion">@string/ext_support_lib_version</string>
+    <!-- OpenSource section -->
+    <string name="library_material_components_isOpenSource">true</string>
+    <string name="library_material_components_repositoryLink">https://github.com/material-components/material-components</string>
+    <!-- ClassPath for autoDetect section -->
+    <string name="library_material_components_classPath">com.google.android.material.bottomnavigation.BottomNavigationItemView</string>
+    <!-- License section -->
+    <string name="library_material_components_licenseId">apache_2_0</string>
+    <!-- Custom variables section -->
+    <string name="library_material_components_owner">Google Inc.</string>
+    <string name="library_material_components_year">2018</string>
+</resources>

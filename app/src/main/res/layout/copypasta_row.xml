@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/icon_row_vertical_padding">
+
+    <TextView
+        android:id="@+id/emoji"
+        android:layout_width="@dimen/emoji_size"
+        android:layout_height="@dimen/emoji_size"
+        android:layout_marginLeft="@dimen/row_icon_margin"
+        android:alpha="1"
+        android:maxLines="1"
+        android:textColor="@color/body_text_inverse"
+        android:textSize="@dimen/emoji_char_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="😠"/>
+
+    <TextView
+        android:id="@+id/copypasta"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/row_icon_margin"
+        android:gravity="start"
+        android:lineSpacingMultiplier="0.9"
+        android:maxLines="7"
+        android:paddingRight="@dimen/row_icon_margin"
+        android:textAlignment="textStart"
+        android:textColor="@color/body_text_inverse"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/emoji"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        tools:text="In japan we don't say 'I love you' we say 乇乂ㄒ尺卂 ㄒ卄丨匚匚 which doesn't mean anything it just spells out 'Extra Thicc' in japanese symbols."/>
+</androidx.constraintlayout.widget.ConstraintLayout>

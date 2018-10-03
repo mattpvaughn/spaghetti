@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="define_int_support_preference">2018;AOSP</string>
+    <!-- Author section -->
+    <string name="library_support_preference_author">AOSP</string>
+    <string name="library_support_preference_authorWebsite">https://source.android.com/</string>
+    <!-- Library section -->
+    <string name="library_support_preference_libraryName">Android Support Library - Preference</string>
+    <string name="library_support_preference_libraryDescription">The preference package provides APIs to support adding preference objects, such as CheckBoxPreference and ListPreference, for users to modify UI settings.</string>
+    <string name="library_support_preference_libraryWebsite">https://developer.android.com/reference/android/support/v7/preference/package-summary</string>
+    <string name="library_support_preference_libraryVersion">@string/ext_support_lib_version</string>
+    <!-- OpenSource section -->
+    <string name="library_support_preference_isOpenSource">true</string>
+    <string name="library_support_preference_repositoryLink">https://android.googlesource.com/platform/frameworks/support/+/bd4cbab/v7/preference/</string>
+    <!-- ClassPath for autoDetect section -->
+    <string name="library_support_preference_classPath">androidx.preference.Preference</string>
+    <!-- License section -->
+    <string name="library_support_preference_licenseId">apache_2_0</string>
+    <!-- Custom variables section -->
+    <string name="library_support_preference_owner">AOSP</string>
+    <string name="library_support_preference_year">2018</string>
+</resources>

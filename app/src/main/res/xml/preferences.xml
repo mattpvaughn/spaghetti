@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.preference.SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:key="@string/nsfw_key"
+        android:summary="@string/nsfw_summary"
+        android:title="@string/nsfw_title"/>
+
+    <Preference
+        android:key="license"
+        android:title="Licenses"
+        android:summary="Licences for open source libraries used"/>
+
+</androidx.preference.PreferenceScreen>
